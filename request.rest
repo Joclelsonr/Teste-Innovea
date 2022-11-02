@@ -1,0 +1,6 @@
+GET http://localhost:3003/news?limit=10&page=1
+
+
+
+###
+GET https://newsapi.org/v2/everything?q=keyword&pageSize=10&page=2&apiKey=8569f540b3c34aeca7b6b438ec2e9756
