@@ -7,7 +7,7 @@
 
 ## Objetivo 🎯
 
-Construa uma aplicação utilizando a linguagem e frameworks da vaga concorrida. Essa aplicação deve consumir a API <a>https://newsapi.org</a> e exibir a lista de artigos com informações de autores, título e descrição.
+Construa uma aplicação utilizando a linguagem e frameworks da vaga concorrida. Essa aplicação deve consumir a API <a href="https://newsapi.org" target="_blank">News API</a> e exibir a lista de artigos com informações de autores, título e descrição.
 
 ## Funcionalidades ⚡️
 
